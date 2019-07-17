@@ -1,0 +1,7 @@
+{
+  "instances": {
+    "ghost-local": {
+      "cwd": "/rbd/pnpm-volume/90c3fc67-fc2a-4d4d-9894-e43af3dfa680/node_modules/ghost"
+    }
+  }
+}
